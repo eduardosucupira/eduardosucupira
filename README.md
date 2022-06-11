@@ -1,4 +1,4 @@
-### Oiii eu sou a Eduardo Sucupira, criador de programação e tecnologia!
+### Oiii eu sou a Eduardo Sucupira, estudante de programação e tecnologia 
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
