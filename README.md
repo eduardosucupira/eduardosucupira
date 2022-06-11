@@ -1,4 +1,4 @@
-### Oiii meu nome é Eduardo Sucupira e estou aprendendo sobre programação e tecnologia ☺
+### Oiii meu nome é Eduardo Sucupira e estou aprendendo um pouco sobre programação e tecnologia ☺🖥
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
