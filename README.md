@@ -10,7 +10,7 @@
   <img align="center" alt="Edu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Edu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Edu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Edu-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/564x/f0/3a/af/f03aaf3f21d3bb0e18e385a589511d8c.jpg">
+  <img align="right" alt="Edu-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/4e/14/ab/4e14ab13f2408b571eb6ab1915fe7001.jpg">
 </div>
   </div>
   
