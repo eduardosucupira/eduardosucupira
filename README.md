@@ -5,8 +5,8 @@
   <img alt="Made by X-design, posted on Pinterest" src="https://user-images.githubusercontent.com/54647722/172732931-6c1ddfb0-d146-492b-b523-680f3ea408c7.gif">
 </div>
 <div align="center" style="display: inline_block">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=eduardosucupira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardosucupira&layout=compact&theme=tokyonight&langs_count=7">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardosucupira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardosucupira&layout=compact&theme=tokyonight&langs_count=7">
 </div>
 
 <br/>
