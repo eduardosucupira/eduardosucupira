@@ -13,7 +13,7 @@
 
 <hr/>
 <div align="center">
-   <img height="150em" width:"50%" src="https://github-readme-streak-stats.herokuapp.com/?user=eduardosucupira&theme=tokyonight">
+   <img height="180em" width:"50%" src="https://github-readme-streak-stats.herokuapp.com/?user=eduardosucupira&theme=tokyonight">
 </div>
 <hr/>
 <div style="display: inline_block" align="center">
