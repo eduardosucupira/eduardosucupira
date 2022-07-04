@@ -1,29 +1,35 @@
-### Oiii meu nome é Eduardo Sucupira e estou aprendendo um pouco sobre programação e tecnologia 👨‍💻☺
+<h1 align="center">Hello 👋, I'm Eduardo</h1>
+<br/>
 
 <div align="center">
-  <a href="https://github.com/eduardosucupira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardosucupira&show_icons=False&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardosucupira&layout=compact&langs_count=7&theme=dark"/>
+  <img alt="Made by X-design, posted on Pinterest" src="https://user-images.githubusercontent.com/54647722/172732931-6c1ddfb0-d146-492b-b523-680f3ea408c7.gif">
 </div>
-  
-  <div>
-    <div style="display: inline_block"><br>
-  <img align="center" alt="Edu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Edu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Edu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Edu-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/4e/14/ab/4e14ab13f2408b571eb6ab1915fe7001.jpg">
+<div align="center" style="display: inline_block">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardosucupira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardosucupira&layout=compact&theme=tokyonight&langs_count=7">
 </div>
-  </div>
-  
-  ##
-  
-  <div>
-    <a href="https://www.instagram.com/eduardo.sucupira/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href = "https://mail.google.com/mail/u/0/#inbox"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href = "https://api.whatsapp.com/send?1=pt_BR&phone=993150081&text=coloque%20sua%20mensagem%20aqui"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-    <a href = "https://twitter.com/EduuSucupira"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-    
-  </div>
+
+<br/>
+
+<hr/>
+<div align="center">
+   <img height="180em" width:"50%" src="https://github-readme-streak-stats.herokuapp.com/?user=eduardosucupira&theme=tokyonight">
+</div>
+<hr/>
+<div style="display: inline_block" align="center">
+  <h3>Techs I'm learning:</h3>
+   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</div>
+
+<div style="display: inline_block;" align="center">
+  <h3>Social Media:</h3>
+  <a href="#">
+    <img height="60em" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg">
+  </a>
+</div>
+
   
   ![Snake animation](https://github.com/eduardosucupira/eduardosucupira/blob/output/github-contribution-grid-snake.svg)
   
