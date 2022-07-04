@@ -5,15 +5,15 @@
   <img alt="Made by X-design, posted on Pinterest" src="https://user-images.githubusercontent.com/54647722/172732931-6c1ddfb0-d146-492b-b523-680f3ea408c7.gif">
 </div>
 <div align="center" style="display: inline_block">
-  <img height="152em" src="https://github-readme-stats.vercel.app/api?username=eduardosucupira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
-  <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardosucupira&layout=compact&theme=tokyonight&langs_count=7">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=eduardosucupira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardosucupira&layout=compact&theme=tokyonight&langs_count=7">
 </div>
 
 <br/>
 
 <hr/>
 <div align="center">
-   <img height="180em" width:"50%" src="https://github-readme-streak-stats.herokuapp.com/?user=eduardosucupira&theme=tokyonight">
+   <img height="150em" width:"50%" src="https://github-readme-streak-stats.herokuapp.com/?user=eduardosucupira&theme=tokyonight">
 </div>
 <hr/>
 <div style="display: inline_block" align="center">
