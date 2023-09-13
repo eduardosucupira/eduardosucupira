@@ -26,7 +26,7 @@
 
 <div style="display: inline_block;" align="center">
   <h3>Social Media:</h3>
-  <a href="#">
+  <a href="https://www.linkedin.com/in/eduardosucupira/">
     <img height="60em" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg">
   </a>
 </div>
