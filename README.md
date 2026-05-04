@@ -1,9 +1,9 @@
 # 👨🏻‍💻 Eduardo Sucupira
 
 **`Desenvolvedor / Estudante`**
-
+<div style="display: inline_block;" align="center">
 Me chamo Eduardo Sucupira, sou estudante da Universidade Federal de Uberlândia (UFU) e tenho grande interesse na área de desenvolvimento Front-End. Estou em busca de uma oportunidade de estágio onde eu possa colocar em prática meus conhecimentos, evoluir profissionalmente e aprender cada vez mais.
-Neste espaço, compartilho alguns dos meus projetos e estudos, mostrando um pouco da minha evolução e do meu interesse pela área.
+Neste espaço, compartilho alguns dos meus projetos e estudos, mostrando um pouco da minha evolução e do meu interesse pela área. </div>
 ---
 
 ### 🤖 Linguagens e Tecnologias
