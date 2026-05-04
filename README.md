@@ -1,28 +1,48 @@
-<h1 align="center">Hello, welcome to my profile :)</h1>
+# 👨🏻‍💻 Eduardo Sucupira
+
+**`Desenvolvedor / Estudante`**
+
+Me chamo Eduardo Sucupira, sou estudante da Universidade Federal de Uberlândia (UFU) e tenho grande interesse na área de desenvolvimento Front-End. Estou em busca de uma oportunidade de estágio onde eu possa colocar em prática meus conhecimentos, evoluir profissionalmente e aprender cada vez mais.
+Neste espaço, compartilho alguns dos meus projetos e estudos, mostrando um pouco da minha evolução e do meu interesse pela área.
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
 <br/>
-
-<div align="inline">
-  <im alt="Made by X-design, posted on Pinterest" src="https://user-images.githubusercontent.com/54647722/172732931-6c1ddfb0-d146-492b-b523-680f3ea408c7.gif">
-</div>
-<div align="center" style="display: inline_block">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=eduardosucupira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardosucupira&layout=compact&theme=tokyonight&langs_count=7">
-</div>
-
 <br/>
-
-<hr/>
-<div align="center">
-   <img height="180em" width:"50%" src="https://github-readme-streak-stats.herokuapp.com/?user=eduardosucupira&theme=tokyonight">
-</div>
-<hr/>
-<div style="display: inline_block" align="center">
-  <h3>Techs I'm learning:</h3>
-   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-</div>
 
 <div style="display: inline_block;" align="center">
   <h3>Social Media:</h3>
@@ -30,6 +50,8 @@
     <img height="60em" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg">
   </a>
 </div>
-
-  
-  ![Snake animation](https://github.com/eduardosucupira/eduardosucupira/blob/output/github-contribution-grid-snake.svg)
+<br/>
+<br/>
+<div align="center">
+   <img height="180em" width:"50%" src="https://github-readme-streak-stats.herokuapp.com/?user=eduardosucupira&theme=tokyonight">
+</div>
