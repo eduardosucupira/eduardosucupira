@@ -55,3 +55,18 @@ Neste espaço, compartilho alguns dos meus projetos e estudos, mostrando um pouc
 <div align="center">
    <img height="180em" width:"50%" src="https://github-readme-streak-stats.herokuapp.com/?user=eduardosucupira&theme=tokyonight">
 </div>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
