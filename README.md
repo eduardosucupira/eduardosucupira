@@ -1,72 +1,49 @@
-# 👨🏻‍💻 Eduardo Sucupira
+<h3 data-importer="text" align="left">👋 Olá! Me chamo Eduardo Sucupira.<br><br>Sou estudante de Sistemas de Informação na Universidade Federal de Uberlândia (UFU) e tenho grande interesse na área de Desenvolvimento Front-End. Estou em busca de uma oportunidade de estágio onde eu possa colocar em prática meus conhecimentos, desenvolver novas habilidades e crescer profissionalmente.<br><br>Neste espaço, compartilho alguns dos meus projetos e estudos, que refletem minha evolução, dedicação e paixão por tecnologia. Estou sempre em busca de novos desafios e aprendizados para me tornar um desenvolvedor cada vez mais preparado.</h3>
 
-**`Desenvolvedor / Estudante`**
-<div style="display: inline_block;" align="center">
-Me chamo Eduardo Sucupira, sou estudante da Universidade Federal de Uberlândia (UFU) e tenho grande interesse na área de desenvolvimento Front-End. Estou em busca de uma oportunidade de estágio onde eu possa colocar em prática meus conhecimentos, evoluir profissionalmente e aprender cada vez mais.
-Neste espaço, compartilho alguns dos meus projetos e estudos, mostrando um pouco da minha evolução e do meu interesse pela área. </div>
----
+###
 
-### 🤖 Linguagens e Tecnologias
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/EduardoSucupira/EduardoSucupira/stats-output/stats.svg?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=EduardoSucupira&locale=pt-br&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/EduardoSucupira/EduardoSucupira/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+###
 
-<br/>
-<br/>
+<img data-importer="image" align="right" height="200" src="https://i.imgflip.com/ay85n5.gif"  />
 
-<div style="display: inline_block;" align="center">
-  <h3>Social Media:</h3>
-  <a href="https://www.linkedin.com/in/eduardosucupira/">
-    <img height="60em" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg">
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+</div>
+
+###
+
+<div data-importer="socials" align="left">
+  <a href="https://www.linkedin.com/in/eduardosucupira/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/eduardo.sucupira" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+  </a>
+  <a href="eduardosucupira3@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
 </div>
-<br/>
-<br/>
-<div align="center">
-   <img height="180em" width:"50%" src="https://github-readme-streak-stats.herokuapp.com/?user=eduardosucupira&theme=tokyonight">
-</div>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+###
+
+<br clear="both">
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/EduardoSucupira/EduardoSucupira/snake-output/snake.svg" alt="Snake animation" />
+
+###
