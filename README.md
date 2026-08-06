@@ -1,22 +1,22 @@
 <div data-importer="image" align="center">
-  <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img data-importer="image" height="210" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
 ###
 
 <div data-importer="socials" align="center">
   <a href="https://www.linkedin.com/in/eduardosucupira/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/eduardo.sucupira" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
   </a>
 </div>
 
 ###
 
 <div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=EduardoSucupira.EduardoSucupira&"  />
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=EduardoSucupira.EduardoSucupira&left_color=blue&right_color=cornflowerblue"  />
 </div>
 
 ###
@@ -29,7 +29,7 @@
 
 ###
 
-<p data-importer="text" align="left">👋 Olá! Me chamo Eduardo Sucupira.<br><br>Sou estudante de Sistemas de Informação na Universidade Federal de Uberlândia (UFU) e tenho grande interesse na área de Desenvolvimento Front-End. Estou em busca de uma oportunidade de estágio onde eu possa colocar em prática meus conhecimentos, desenvolver novas habilidades e crescer profissionalmente.<br><br>Neste espaço, compartilho alguns dos meus projetos e estudos, que refletem minha evolução, dedicação e paixão por tecnologia. Estou sempre em busca de novos desafios e aprendizados para me tornar um desenvolvedor cada vez mais preparado.</p>
+<h4 data-importer="text" align="left">👋 Olá! Me chamo Eduardo Sucupira.<br><br>Sou estudante de Sistemas de Informação na Universidade Federal de Uberlândia (UFU) e tenho grande interesse na área de Desenvolvimento Front-End. Estou em busca de uma oportunidade de estágio onde eu possa colocar em prática meus conhecimentos, desenvolver novas habilidades e crescer profissionalmente.<br><br>Neste espaço, compartilho alguns dos meus projetos e estudos, que refletem minha evolução, dedicação e paixão por tecnologia. Estou sempre em busca de novos desafios e aprendizados para me tornar um desenvolvedor cada vez mais preparado.</h4>
 
 ###
 
@@ -60,6 +60,7 @@
 ###
 
 <div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/EduardoSucupira/EduardoSucupira/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=EduardoSucupira&locale=pt-br&mode=daily&theme=onedark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
